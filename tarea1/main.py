@@ -1,7 +1,5 @@
 import csv
-
-
-
+lista_libros=[]
 class Libro:
     def __init__(self):
         
